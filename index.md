@@ -3,7 +3,7 @@ layout: default
 title: Homme
 ---
 
-# HOME
+# HOMME
 
 * [Spektrallinien](page2.html)
 * [Reis](page3.html)
