@@ -40,4 +40,4 @@ while True:
     else:
         print("Deckel drauf lassen du Ekel!")
 
-[HOME](index.md)
+[/home/jens/Jensdergh.github.io](index.md)
