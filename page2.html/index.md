@@ -20,7 +20,7 @@ oberflächlichen Bericht. Sollte man mehr dazu Erfahren wollen, sollte man sich 
 
 ![Spektrallinien](SpL){: width="500" height="300"}
 
-[/home/jens/Jensdergh.github.io](index.md)
+[HOME](../index.md)
 
 Bild Quelle  
 https://www.wolfram.com
